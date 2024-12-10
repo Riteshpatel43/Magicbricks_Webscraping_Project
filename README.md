@@ -5,8 +5,8 @@ Thank you for visiting the MagicBricks Webscraping Project repository. This proj
 ## About the Project 📄
 The goal of this project is to automate data collection from MagicBricks website, utilizing Selenium for web scraping. Key features include:
 
-Infinite Scroll: Automatically scroll the page till the end of it.
-Data Storage: Saves scraped data into an Excel file for easy access and analysis.
+- Infinite Scroll: Automatically scroll the page till the end of it.
+- Data Storage: Saves scraped data into an Excel file for easy access and analysis.
 
 ## Getting Started 🚀
 ### Prerequisites
