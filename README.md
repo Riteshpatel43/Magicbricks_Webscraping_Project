@@ -2,6 +2,8 @@
 Welcome! 👋
 Thank you for visiting the MagicBricks Webscraping Project repository. This project demonstrates how to real-estate data from MagicBricks  using Infinite Scroll and store the results in an Excel file for further analysis.
 
+## important : Chromedriver Link : https://googlechromelabs.github.io/chrome-for-testing/#stable
+
 ## About the Project 📄
 The goal of this project is to automate data collection from MagicBricks website, utilizing Selenium for web scraping. Key features include:
 
